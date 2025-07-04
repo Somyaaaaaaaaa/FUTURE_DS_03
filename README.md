@@ -1,4 +1,4 @@
-# FUTURE_DS_01 – College Feedback Analysis
+# FUTURE_DS_03 – College Feedback Analysis
 
 This project was completed as part of my **Data Science Internship with Future Interns**.
 
@@ -17,9 +17,6 @@ The goal of this task was to analyze structured student feedback using basic dat
 - Created visualizations for distribution of responses
 - Provided actionable recommendations for improvement
 - Structured insights in a clean report format
-
-##  Screenshots
-*(Add images if you want)*
 
 ## Tools Used
 - Google Colab
